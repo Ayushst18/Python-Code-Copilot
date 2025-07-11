@@ -167,13 +167,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the amazing web framework
 - [Meta](https://meta.com/) for the Llama model
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/Ayushst18/Python-Code-Copilot/issues) page
-2. Create a new issue if your problem isn't already reported
-3. Provide detailed information about your environment and the issue
 
 ## 🚧 Roadmap
 
